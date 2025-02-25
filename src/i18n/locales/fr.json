@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "gallery": "Galerie",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "subtitle": "Experts en plaques de plâtre et rénovation en Espagne",
+    "mainTitle": "Placas del Sur K.C.I.B : Experts en Plaques de Plâtre et Rénovation en Espagne",
+    "description": {
+      "main": "Chez Placas del Sur K.C.I.B, nous nous spécialisons dans l'installation de plaques de plâtre pour plafonds et murs, offrant un service de qualité dans toute l'Espagne, avec une attention particulière pour la région de Madrid. Avec plus de 17 ans d'expérience, nous nous sommes établis comme une référence dans l'installation de plaques de plâtre, un matériau innovant et polyvalent, idéal pour la construction de plafonds, cloisons et divisions d'espaces. Grâce à sa durabilité, son isolation thermique et acoustique, les plaques de plâtre sont devenues l'option privilégiée en architecture et design d'intérieur moderne.",
+      "specialization": "En plus de notre spécialisation en plaques de plâtre, chez Placas del Sur K.C.I.B, nous nous consacrons également à la rénovation de sols, proposant l'installation de parquet et de plancher flottant, des matériaux qui apportent chaleur, élégance et durabilité à chaque espace. Notre équipe de professionnels hautement qualifiés travaille avec précision et engagement pour garantir des finitions impeccables et des solutions adaptées à chaque client."
+    },
+    "team": {
+      "title": "Une équipe de professionnels engagés dans l'excellence",
+      "description": "Notre entreprise se distingue par une équipe de spécialistes en construction et rénovation, formés pour exécuter des projets avec une efficacité maximale. Nous privilégions la qualité, la sécurité et la ponctualité, en respectant les délais établis sans compromettre l'excellence du travail.",
+      "commitment": "Chaque projet est unique, c'est pourquoi nous travaillons en étroite collaboration avec nos clients, en nous adaptant à leurs besoins et attentes. Des petites rénovations aux grands chantiers, notre engagement est d'offrir des résultats qui dépassent les attentes et garantissent une satisfaction maximale."
+    },
+    "services": {
+      "title": "Services de rénovation et construction dans toute l'Espagne",
+      "intro": "Nous proposons des solutions tant pour les particuliers que pour les entreprises, offrant nos services dans une large gamme d'espaces :",
+      "spaces": {
+        "residential": "🏠 Logements et appartements – Nous rénovons les espaces intérieurs avec des plaques de plâtre et des rénovations de sols.",
+        "commercial": "🏢 Bureaux et espaces commerciaux – Nous adaptons et modernisons les intérieurs pour garantir fonctionnalité et design.",
+        "industrial": "🏗️ Locaux et grands projets de construction – Nous travaillons sur des chantiers de différentes envergures, assurant qualité et conformité aux normes."
+      },
+      "highlight": "Nous nous distinguons par des devis compétitifs sans compromettre la qualité du service. Notre mission est de fournir à nos clients des solutions efficaces et accessibles, adaptées à chaque type de projet."
+    },
+    "karim": {
+      "name": "Karim Erraihani",
+      "age": "38 ans",
+      "experience": "Une expérience enrichissante avec des entreprises renommées telles que **Alpema**, **Fama Rehabilitación**, **Almarcha Proyectos y Rehabilitación**, et **Grupos Gersan**",
+      "social": {
+        "facebook": "https://www.facebook.com/karim.erraihani"
+      }
+    },
+    "quote": {
+      "title": "Demandez votre devis sans engagement",
+      "description": "Chez Placas del Sur K.C.I.B, nous nous engageons à offrir un service transparent et professionnel. Nous évaluons votre projet et préparons un devis détaillé sans engagement, garantissant une attention personnalisée dès le premier contact."
+    }
+  },
+  "readMore": "Lire plus",
+  "readLess": "Lire moins",
+  "home": {
+    "hero": {
+      "title": "Transformez vos espaces avec des Plaques de Plâtre",
+      "subtitle": "Plus de 17 ans d'expérience dans l'installation de plaques de plâtre",
+      "cta": "Devis Gratuit"
+    },
+    "services": {
+      "title": "Nos Services",
+      "list": {
+        "pladur": "Installation de Plaques de Plâtre",
+        "renovation": "Rénovation Intégrale",
+        "floors": "Installation de Parquet",
+        "isolation": "Isolation Thermique et Acoustique"
+      }
+    },
+    "why": {
+      "title": "Pourquoi Nous Choisir",
+      "experience": "17 ans d'Expérience",
+      "quality": "Qualité Premium",
+      "satisfaction": "Satisfaction Client"
+    },
+    "testimonials": {
+      "title": "Avis de nos clients",
+      "maria": "Un travail exceptionnel ! L'équipe a rénové notre appartement avec une précision remarquable. Le résultat est exactement ce que nous souhaitions.",
+      "juan": "Professionnalisme exemplaire dans l'installation des plaques de plâtre. Délais respectés et finitions impeccables.",
+      "ana": "Je recommande vivement leurs services. La transformation de notre espace commercial a dépassé nos attentes."
+    },
+    "cta": {
+      "title": "Prêt à transformer votre espace ?",
+      "subtitle": "Contactez-nous pour un devis gratuit",
+      "button": "Nous Contacter"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions professionnelles pour chaque projet",
+    "requestQuote": "Demander un Devis",
+    "techos": {
+      "title": "Plafonds en Plaques de Plâtre",
+      "shortDesc": "Systèmes de plafonds continus et démontables avec plusieurs niveaux et formes",
+      "fullDesc": "Les systèmes de plaques de plâtre offrent la possibilité de réaliser des plafonds continus et démontables, permettant de développer plusieurs niveaux et formes pour obtenir des plafonds uniques. Ils peuvent intégrer des éléments d'éclairage direct, de sonorisation et de ventilation, en plus de pouvoir incorporer des systèmes d'éclairage indirect pour créer des ambiances exclusives et relaxantes.\n\nDe plus, si vous souhaitez lisser un plafond pour corriger des défauts de nivellement, nous avons la solution. Pour les plafonds démontables, il existe une très large gamme de finitions et de matériaux : vinyle, métallique, plâtre, fibre, bois..."
+    },
+    "tabiques": {
+      "title": "Cloisons en Plaques de Plâtre",
+      "shortDesc": "Structures métalliques avec plaques de plâtre",
+      "fullDesc": "Les cloisons en plaques de plâtre sont constituées d'une ou plusieurs structures de profilés métalliques en tôle d'acier galvanisée de différentes largeurs, ainsi que de plaques de plâtre vissées de différents types et épaisseurs.\n\nLe système permet d'intégrer des matériaux isolants et d'accueillir des composants d'installation électrique et de plomberie, le tout camouflé dans la partie interne de la cloison. De plus, le processus d'installation est rapide, propre et économique."
+    },
+    "registrable": {
+      "title": "Plafond Démontable",
+      "shortDesc": "Plafonds démontables avec multiples fonctionnalités",
+      "fullDesc": "Les plafonds démontables sont un élément constructif formé de dalles amovibles fixées à la structure en laissant un certain espace grâce à des profilés et des suspensions. Ces plafonds ont une fonctionnalité très large car ils peuvent servir à abriter des installations (câbles, tuyaux...), insonoriser des espaces, créer des ambiances décoratives, etc.\n\nCe type de plafonds est disponible dans différents matériaux comme le plâtre, le métal, le bois, le vinyle... Ils offrent également d'excellentes performances thermiques et acoustiques ainsi qu'une haute résistance à l'humidité."
+    },
+    "reformas": {
+      "title": "Rénovations en Plaques de Plâtre",
+      "shortDesc": "Experts en rénovation et montage de plaques de plâtre",
+      "fullDesc": "Notre entreprise est leader dans la rénovation et l'installation de plaques de plâtre depuis 20 ans. Nous avons une grande expérience dans l'isolation acoustique pour les locaux commerciaux et particuliers, l'isolation thermique et acoustique, tous types de rénovations en plaques de plâtre, l'installation de faux plafonds, tant continus que démontables dans toute leur variété, étagères et tout type de décoration en plaques de plâtre.\n\nFort de notre expérience et de notre rigueur, nous offrons les meilleures solutions à nos clients, avec le plus grand sérieux et la meilleure qualité de finition.\n\nLa qualité est notre marque de fabrique en tant qu'entreprise installatrice de plaques de plâtre à Madrid."
+    },
+    "trasdosados": {
+      "title": "Doublages en Plaques de Plâtre",
+      "shortDesc": "Système de revêtement intérieur avec isolation",
+      "fullDesc": "Les doublages en plaques de plâtre sont un système où les doublages sont fixés à la face intérieure d'un mur en brique. Il est formé d'une structure métallique porteuse avec une modulation d'axes sur laquelle sont vissées les PLAQUES DE PLÂTRE, avec une âme d'isolant thermique et acoustique.\n\nCe système est recommandé pour les revêtements intérieurs de murs et façades, pour les constructions neuves ou les travaux de réhabilitation où l'on obtient une amélioration de l'isolation thermique et acoustique."
+    },
+    "aislamiento": {
+      "title": "Isolation Thermique et Acoustique",
+      "shortDesc": "Solutions efficaces pour le contrôle du bruit et de la température",
+      "fullDesc": "Le bruit dans l'habitat est un mal commun subi pratiquement par toute la population à un moment donné : les aboiements d'un chien, le bruit constant d'une descente d'eau ou un voisin avec sa chaîne hi-fi... ce qui rend le repos difficile, particulièrement la nuit.\n\nAujourd'hui, il existe une infinité de solutions qui offrent d'excellents résultats, tant dans les matériaux qui fonctionnent seuls, comme la laine de roche ou de verre ou d'autres, que dans les ensembles formés de deux ou plusieurs matériaux (Systèmes) qui sont préalablement testés et approuvés en laboratoire, nous offrant une sécurité dans l'investissement et répondant aux attentes de notre projet."
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse",
+      "message": "Message",
+      "submit": "Envoyer",
+      "sending": "Envoi en cours...",
+      "sent": "Envoyé !",
+      "error": "Erreur d'envoi"
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "services": {
+      "title": "Services",
+      "pladur": "Installation de Plaques de Plâtre",
+      "renovation": "Rénovation Complète",
+      "construction": "Construction Neuve",
+      "design": "Design d'Intérieur"
+    },
+    "company": {
+      "title": "Entreprise",
+      "about": "À Propos",
+      "projects": "Projets",
+      "testimonials": "Témoignages",
+      "contact": "Contact"
+    },
+    "rights": "Tous droits réservés.",
+    "developed": "Développé par"
+  }
+}

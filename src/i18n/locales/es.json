@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "gallery": "Galería",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "readMore": "Leer más",
+  "readLess": "Leer menos",
+  "home": {
+    "hero": {
+      "title": "Expertos en Construcción y Renovación",
+      "subtitle": "Más de 17 años de experiencia en instalación de pladur",
+      "cta": "Solicitar Presupuesto"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "list": {
+        "pladur": "Instalación de Pladur",
+        "renovation": "Reformas Integrales",
+        "floors": "Instalación de Parquet",
+        "isolation": "Aislamiento Térmico y Acústico"
+      }
+    },
+    "why": {
+      "title": "Por Qué Elegirnos",
+      "experience": "17 años de Experiencia",
+      "quality": "Calidad Premium",
+      "satisfaction": "Satisfacción del Cliente"
+    },
+    "testimonials": {
+      "title": "Lo que dicen nuestros clientes",
+      "maria": "¡Trabajo excepcional! El equipo renovó nuestro apartamento con una precisión notable. El resultado es exactamente lo que queríamos.",
+      "juan": "Profesionalismo ejemplar en la instalación de pladur. Plazos respetados y acabados impecables.",
+      "ana": "Recomiendo encarecidamente sus servicios. La transformación de nuestro espacio comercial superó nuestras expectativas."
+    },
+    "cta": {
+      "title": "¿Listo para transformar tu espacio?",
+      "subtitle": "Contacta con nosotros para un presupuesto gratuito",
+      "button": "Contactar ahora"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Expertos en pladur y reformas en España",
+    "mainTitle": "Placas del Sur K.C.I.B: Expertos en Pladur y Reformas en España",
+    "description": {
+      "main": "En Placas del Sur K.C.I.B, nos especializamos en la instalación de pladur en techos y paredes, ofreciendo un servicio de calidad en toda España, con un enfoque destacado en la provincia de Madrid. Con más de 17 años de experiencia, nos hemos consolidado como referentes en la instalación de pladur, un material innovador y versátil, ideal para la construcción de techos, tabiques y divisiones de espacios. Gracias a su resistencia, aislamiento térmico y acústico, el pladur se ha convertido en una opción preferida en la arquitectura y el diseño de interiores modernos.",
+      "specialization": "Además de nuestra especialización en pladur, en Placas del Sur K.C.I.B también nos dedicamos a la renovación de suelos, ofreciendo la instalación de parqué y tarima flotante, materiales que aportan calidez, elegancia y durabilidad a cualquier espacio. Nuestro equipo de profesionales altamente capacitados trabaja con precisión y compromiso para garantizar acabados impecables y soluciones adaptadas a cada cliente."
+    },
+    "team": {
+      "title": "Un equipo de profesionales comprometidos con la excelencia",
+      "description": "Nuestra empresa se distingue por contar con un equipo de especialistas en construcción y reformas, capacitados para ejecutar proyectos con la máxima eficiencia. Priorizamos la calidad, la seguridad y la puntualidad, cumpliendo con los plazos de entrega establecidos sin comprometer la excelencia del trabajo.",
+      "commitment": "Cada proyecto es único, por lo que trabajamos en estrecha colaboración con nuestros clientes, adaptándonos a sus necesidades y expectativas. Desde pequeñas reformas hasta grandes obras, nuestro compromiso es ofrecer resultados que superen las expectativas y garanticen la máxima satisfacción."
+    },
+    "services": {
+      "title": "Servicios de reformas y construcción en toda España",
+      "intro": "Brindamos soluciones tanto para particulares como para empresas, ofreciendo nuestros servicios en una amplia variedad de espacios:",
+      "spaces": {
+        "residential": "🏠 Viviendas y apartamentos – Reformamos espacios interiores con pladur y renovaciones de suelos.",
+        "commercial": "🏢 Oficinas y espacios comerciales – Adaptamos y modernizamos interiores para garantizar funcionalidad y diseño.",
+        "industrial": "🏗️ Locales y grandes proyectos de construcción – Trabajamos en obras de diversa envergadura, asegurando calidad y cumplimiento de normativas."
+      },
+      "highlight": "Nos destacamos por ofrecer presupuestos competitivos sin comprometer la calidad del servicio. Nuestra misión es proporcionar a nuestros clientes soluciones eficientes y accesibles, adaptadas a cada tipo de proyecto."
+    },
+    "karim": {
+      "name": "Karim Erraihani",
+      "age": "38 años",
+      "experience": "Una experiencia enriquecedora con empresas de renombre como **Alpema**, **Fama Rehabilitación**, **Almarcha Proyectos y Rehabilitación**, y **Grupos Gersan**",
+      "social": {
+        "facebook": "https://www.facebook.com/karim.erraihani"
+      }
+    },
+    "quote": {
+      "title": "Solicita tu presupuesto sin compromiso",
+      "description": "En Placas del Sur K.C.I.B, nos comprometemos a ofrecer un servicio transparente y profesional. Evaluamos tu proyecto y preparamos un presupuesto detallado sin compromiso, garantizando una atención personalizada desde el primer contacto."
+    }
+  },
+  "gallery": {
+    "photos": "photos",
+    "videos": "Vídeos"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones profesionales para cada proyecto",
+    "requestQuote": "Pedir Presupuesto",
+    "techos": {
+      "title": "Techos de Pladur",
+      "shortDesc": "Sistemas de techos continuos y registrables con múltiples niveles y formas",
+      "fullDesc": "Los sistemas de pladur dan la oportunidad de realizar techos continuos y registrables, permitiendo desarrollar múltiples niveles y formas para obtener unos techos únicos, con capacidad de integrar elementos de iluminación directa, sonorización y ventilación, al margen de poder incorporar sistemas de iluminación indirecta para crear ambientes exclusivos y relajantes.\n\nAsí mismo, en caso de que se quiera alisar un techo para corregir deficiencias de nivelación. Mientras que para los techos registrables existe una extensísima gama de acabados y materiales: vinilo, metálico, escayola, fibra, madera..."
+    },
+    "tabiques": {
+      "title": "Tabiques de Pladur",
+      "shortDesc": "Estructuras metálicas con placas de yeso laminado",
+      "fullDesc": "Los tabiques de pladur están conformados por una o múltiples estructuras de perfiles metálicos realizados con chapa de acero galvanizada en diversos anchos así como por placas atornilladas de yeso laminado de diferentes tipos y espesores.\n\nEl sistema permite dar cabida a materiales aislantes y alojar componentes de instalación eléctrica y fontanería, quedando todo camuflado en la parte interna del tabique. Además, el proceso de instalación es rápido, limpio y económico."
+    },
+    "registrable": {
+      "title": "Techo Registrable",
+      "shortDesc": "Techos desmontables con múltiples funcionalidades",
+      "fullDesc": "Los techos registrables son un elemento constructivo formado por placas desmontables que se fijan al formado dejando una cierta distancia mediante perfiles y suspensiones. Estos techos tienen una funcionalidad bastante amplia ya que puede servir para albergar instalaciones (cables, tuberías...), insonorizar espacios, crear ambientes decorativos, etc.\n\nEste tipo de techos se pueden encontrar en diferentes materiales como techos de escayola, de metal, de madera, de vinilo… Además, disponen también de unas magníficas prestaciones térmicas y acústicas además de una alta resistencia a la humedad."
+    },
+    "reformas": {
+      "title": "Reformas de Pladur",
+      "shortDesc": "Expertos en reformas y montaje de pladur",
+      "fullDesc": "Techos Pladur AZ es una empresa líder en reformas y montaje e instalaciones de pladur hace 20 años, Tenemos gran experiencia en Insonorizaciones Acústicas para Locales y particulares, Aislamientos térmicos y acústico todo tipo reformas de Pladur o Yeso Laminado, Instalación de Falsos Techos, tanto continuos de pladur, como desmontables en toda su variedad, estanterías y todo tipo de decoración en yeso laminado.\n\nDesde nuestra experiencia y rigor, ofrecemos las mejores soluciones para nuestros clientes, con la máxima seriedad, calidad con los mejores acabados para el cliente.\n\nLa calidad, nuestra insignia como empresa instaladora de pladur en Madrid."
+    },
+    "trasdosados": {
+      "title": "Trasdosados de Pladur",
+      "shortDesc": "Sistema de revestimiento interior con aislamiento",
+      "fullDesc": "Los trasdosado de pladur son un sistema donde los trasdosados se arriostran a la cara interior de un muro de ladrillo. Es formado por una estructura metálica portante y con modulación de ejes a cuyo lado interno se atornillan las PLACAS DE YESO LAMINADO, con alma de aislante térmico y acústico.\n\nEste sistema es recomendado para revestimientos interiores de muros y fachadas, para obra nueva u obras de rehabilitación donde obtiene una mejora en el aislamiento térmico y acústico."
+    },
+    "aislamiento": {
+      "title": "Aislamiento Térmico y Acústico",
+      "shortDesc": "Soluciones efectivas para el control del ruido y temperatura",
+      "fullDesc": "El ruido en la vivienda es un mal común sufrido prácticamente por toda la población en algún momento, los ladridos de un perro, el ruido constante de un bajante o un vecino con el equipo de música… lo que dificulta el descanso, especialmente por la noche.\n\nA día de hoy, existen infinidad de soluciones que nos ofrecen excelentes resultados, tanto en materiales que trabajan por si solos, como lana de roca o de vidrio u otros más, en conjuntos formados por dos o mas materiales (Sistemas) y que están previamente ensayados y aprobados en laboratorio, ofreciéndonos seguridad en la inversión y cumpliendo las expectativas de nuestro proyecto."
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    }
+  },
+  "footer": {
+    "contact": "Contacto",
+    "services": {
+      "title": "Servicios",
+      "pladur": "Instalación de Pladur",
+      "renovation": "Reformas Integrales",
+      "construction": "Nueva Construcción",
+      "design": "Diseño de Interiores"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Sobre Nosotros",
+      "projects": "Proyectos",
+      "testimonials": "Testimonios",
+      "contact": "Contacto"
+    },
+    "rights": "Todos los derechos reservados.",
+    "developed": "Desarrollado por"
+  }
+}

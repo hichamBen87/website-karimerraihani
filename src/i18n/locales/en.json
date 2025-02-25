@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Drywall and renovation experts in Spain",
+    "mainTitle": "Placas del Sur K.C.I.B: Drywall and Renovation Experts in Spain",
+    "description": {
+      "main": "At Placas del Sur K.C.I.B, we specialize in drywall installation for ceilings and walls, offering quality service throughout Spain, with a special focus on the Madrid region. With over 17 years of experience, we have established ourselves as a reference in drywall installation, an innovative and versatile material, ideal for constructing ceilings, partitions, and space divisions. Thanks to its durability, thermal and acoustic insulation, drywall has become the preferred choice in modern architecture and interior design.",
+      "specialization": "In addition to our drywall specialization, at Placas del Sur K.C.I.B we also dedicate ourselves to floor renovation, offering hardwood and floating floor installation, materials that bring warmth, elegance, and durability to any space. Our team of highly qualified professionals works with precision and commitment to ensure impeccable finishes and solutions tailored to each client."
+    },
+    "team": {
+      "title": "A team of professionals committed to excellence",
+      "description": "Our company stands out for having a team of construction and renovation specialists, trained to execute projects with maximum efficiency. We prioritize quality, safety, and punctuality, meeting established deadlines without compromising work excellence.",
+      "commitment": "Each project is unique, and we work closely with our clients, adapting to their needs and expectations. From small renovations to large projects, our commitment is to deliver results that exceed expectations and ensure maximum satisfaction."
+    },
+    "services": {
+      "title": "Renovation and construction services throughout Spain",
+      "intro": "We provide solutions for both individuals and businesses in a wide variety of spaces:",
+      "spaces": {
+        "residential": "🏠 Homes and apartments – Interior space renovation with drywall and floor renovations.",
+        "commercial": "🏢 Offices and commercial spaces – We adapt and modernize interiors to ensure functionality and design.",
+        "industrial": "🏗️ Commercial premises and large construction projects – We work on projects of various scales, ensuring quality and compliance with regulations."
+      },
+      "highlight": "We stand out for offering competitive quotes without compromising service quality. Our mission is to provide our clients with efficient and accessible solutions, adapted to each type of project."
+    },
+    "karim": {
+      "name": "Karim Erraihani",
+      "age": "38 years old",
+      "experience": "An enriching experience with renowned companies such as **Alpema**, **Fama Rehabilitación**, **Almarcha Proyectos y Rehabilitación**, and **Grupos Gersan**",
+      "social": {
+        "facebook": "https://www.facebook.com/karim.erraihani"
+      }
+    },
+    "quote": {
+      "title": "Request your free quote",
+      "description": "At Placas del Sur K.C.I.B, we are committed to providing a transparent and professional service. We evaluate your project and prepare a detailed quote without obligation, ensuring personalized attention from the first contact."
+    }
+  },
+  "readMore": "Read More",
+  "readLess": "Read Less",
+  "home": {
+    "hero": {
+      "title": "Transform Your Spaces with Drywall",
+      "subtitle": "Over 17 years of experience in drywall installation",
+      "cta": "Get a Free Quote"
+    },
+    "services": {
+      "title": "Our Services",
+      "list": {
+        "pladur": "Drywall Installation",
+        "renovation": "Complete Renovation",
+        "floors": "Hardwood Flooring",
+        "isolation": "Thermal & Acoustic Insulation"
+      }
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "experience": "17 Years Experience",
+      "quality": "Premium Quality",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "maria": "Exceptional work! The team renovated our apartment with remarkable precision. The result is exactly what we wanted.",
+      "juan": "Exemplary professionalism in drywall installation. Deadlines respected and impeccable finishes.",
+      "ana": "I highly recommend their services. The transformation of our commercial space exceeded our expectations."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Space?",
+      "subtitle": "Contact us today for a free quote",
+      "button": "Contact Now"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional solutions for every project",
+    "requestQuote": "Request Quote",
+    "techos": {
+      "title": "Drywall Ceilings",
+      "shortDesc": "Continuous and removable ceiling systems with multiple levels and shapes",
+      "fullDesc": "Drywall systems offer the possibility of creating continuous and removable ceilings, allowing the development of multiple levels and shapes to obtain unique ceilings. They can integrate direct lighting elements, sound systems, and ventilation, in addition to being able to incorporate indirect lighting systems to create exclusive and relaxing environments.\n\nAlso, if you want to smooth a ceiling to correct leveling deficiencies, we have the solution. For removable ceilings, there is a very wide range of finishes and materials: vinyl, metallic, plaster, fiber, wood..."
+    },
+    "tabiques": {
+      "title": "Drywall Partitions",
+      "shortDesc": "Metal structures with gypsum boards",
+      "fullDesc": "Drywall partitions are made up of one or multiple structures of metal profiles made of galvanized steel sheet in various widths, as well as screwed gypsum boards of different types and thicknesses.\n\nThe system allows for the incorporation of insulating materials and housing electrical and plumbing installation components, all camouflaged in the internal part of the partition. Additionally, the installation process is quick, clean, and economical."
+    },
+    "registrable": {
+      "title": "Removable Ceiling",
+      "shortDesc": "Removable ceilings with multiple functionalities",
+      "fullDesc": "Removable ceilings are a constructive element formed by removable tiles that are fixed to the structure leaving a certain distance through profiles and suspensions. These ceilings have quite broad functionality as they can serve to house installations (cables, pipes...), soundproof spaces, create decorative environments, etc.\n\nThis type of ceiling can be found in different materials such as plaster ceilings, metal, wood, vinyl... They also have excellent thermal and acoustic performance as well as high resistance to humidity."
+    },
+    "reformas": {
+      "title": "Drywall Renovations",
+      "shortDesc": "Experts in drywall renovation and assembly",
+      "fullDesc": "Our company is a leader in drywall renovation and installation for 20 years. We have extensive experience in Acoustic Insulation for Commercial premises and individuals, Thermal and acoustic insulation, all types of Drywall or Laminated Plaster renovations, False Ceiling Installation, both continuous drywall and removable in all their variety, shelving and all types of decoration in laminated plaster.\n\nFrom our experience and rigor, we offer the best solutions for our clients, with maximum seriousness and quality with the best finishes for the client.\n\nQuality is our hallmark as a drywall installation company in Madrid."
+    },
+    "trasdosados": {
+      "title": "Drywall Linings",
+      "shortDesc": "Interior lining system with insulation",
+      "fullDesc": "Drywall linings are a system where the linings are braced to the interior face of a brick wall. It is formed by a load-bearing metal structure with axis modulation to whose internal side the GYPSUM BOARDS are screwed, with thermal and acoustic insulation core.\n\nThis system is recommended for interior wall and facade coverings, for new construction or rehabilitation works where an improvement in thermal and acoustic insulation is obtained."
+    },
+    "aislamiento": {
+      "title": "Thermal & Acoustic Insulation",
+      "shortDesc": "Effective solutions for noise and temperature control",
+      "fullDesc": "Noise in housing is a common problem suffered by practically the entire population at some point: dog barking, constant noise from a downpipe, or a neighbor with their sound system... which makes rest difficult, especially at night.\n\nToday, there are countless solutions that offer excellent results, both in materials that work on their own, such as rock or glass wool or others, and in sets formed by two or more materials (Systems) that are previously tested and approved in the laboratory, offering us security in the investment and meeting the expectations of our project."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "message": "Message",
+      "submit": "Send",
+      "sending": "Sending...",
+      "sent": "Sent!",
+      "error": "Send error"
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "services": {
+      "title": "Services",
+      "pladur": "Drywall Installation",
+      "renovation": "Complete Renovation",
+      "construction": "New Construction",
+      "design": "Interior Design"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "projects": "Projects",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "rights": "All rights reserved.",
+    "developed": "Developed by"
+  }
+}
