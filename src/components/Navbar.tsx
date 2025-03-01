@@ -301,13 +301,13 @@ export default function Navbar() {
                   onClick={() => handleGalleryNavigation('photos')}
                   className="block w-full text-left pl-4 py-2 text-sm text-gray-600 hover:text-blue-600"
                 >
-                  {t('gallery.selector.photos')}
+                  {t('photos')}
                 </button>
                 <button
                   onClick={() => handleGalleryNavigation('videos')}
                   className="block w-full text-left pl-4 py-2 text-sm text-gray-600 hover:text-blue-600"
                 >
-                  {t('gallery.selector.videos')}
+                  {t('videos')}
                 </button>
               </div>
 
