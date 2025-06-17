@@ -102,8 +102,8 @@ const contactInfo = {
             className="flex justify-center items-center"
           >
             <img 
-              src="/logo3.jpg" 
-              alt="logo3" 
+              src="/logo03.png" 
+              alt="logo03" 
               className="w-full max-w-[300px] h-auto"
             />
           </motion.div>

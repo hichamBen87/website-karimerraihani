@@ -93,7 +93,7 @@ export default function Home() {
   className="w-1/3 max-w-sm flex-shrink-0 overflow-hidden"
 >
   <img
-    src="/logo3.jpg"
+    src="/logo03.png"
     alt="M2c placas del sur s.l"
     className="w-full h-auto object-contain"
   />
