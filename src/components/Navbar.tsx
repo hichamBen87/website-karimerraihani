@@ -82,7 +82,7 @@ export default function Navbar() {
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center space-x-3">
               <img 
-                src="/logo-new.jpg" 
+                src="/logo3.jpg" 
                 alt="Logo" 
                 className="h-12 w-auto"
               />
