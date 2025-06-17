@@ -83,17 +83,23 @@ export default function Home() {
 
               {/* Logo agrandi */}
               <motion.div
-                initial={{ opacity: 0, scale: 0.8, x: 50 }}
-                animate={{ opacity: 1, scale: 1, x: 0 }}
-                transition={{ duration: 0.8, delay: 0.3 }}
-                className="w-full max-w-lg lg:max-w-xl flex-shrink-0"
-              >
-                <img
-                  src="/logo3.jpg"
-                  alt="M2c placas del sur s.l"
-                  className="w-full h-auto object-contain"
-                />
-              </motion.div>
+  initial={{ clipPath: 'inset(0 100% 0 0)' }}
+  animate={{ clipPath: 'inset(0 0% 0 0)' }}
+  transition={{
+    duration: 1.2,
+    ease: 'easeInOut',
+    delay: 0.3,
+  }}
+  className="w-1/3 max-w-sm flex-shrink-0 overflow-hidden"
+>
+  <img
+    src="/logo3.jpg"
+    alt="M2c placas del sur s.l"
+    className="w-full h-auto object-contain"
+  />
+</motion.div>
+
+
             </motion.div>
           </div>
         </div>

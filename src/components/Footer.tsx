@@ -8,12 +8,12 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   // Contact information that should not be translated
-  const contactInfo = {
-    phone: '+34 617 286 080',
-    email: 'placasdelsur80@gmail.com',
-    linkedin: 'https://linkedin.com/company/techospladuraz',
-    whatsapp: 'https://wa.me/34617286080'
-  };
+const contactInfo = {
+  phones: ['+34 617 286 080', '+34 624 868 500'],
+  email: 'placasdelsur80@gmail.com',
+  linkedin: 'https://linkedin.com/company/techospladuraz',
+  whatsapp: 'https://wa.me/34617286080'
+};
 
   return (
     <footer className="bg-gray-900 text-white pt-16 pb-8">
@@ -27,10 +27,17 @@ export default function Footer() {
           >
             <h3 className="text-xl font-bold mb-6">{t('footer.contact')}</h3>
             <div className="space-y-4">
-              <a href={`tel:${contactInfo.phone}`} className="flex items-center space-x-3 hover:text-blue-400 transition-colors">
-                <Phone className="w-5 h-5" />
-                <span style={{ unicodeBidi: 'plaintext' }}>{contactInfo.phone}</span>
-              </a>
+            {contactInfo.phones.map((phone, index) => (
+  <a
+    key={index}
+    href={`tel:${phone.replace(/\s+/g, '')}`}
+    className="flex items-center space-x-3 hover:text-blue-400 transition-colors"
+  >
+    <Phone className="w-5 h-5" />
+    <span style={{ unicodeBidi: 'plaintext' }}>{phone}</span>
+  </a>
+))}
+
               <a href={`mailto:${contactInfo.email}`} className="flex items-center space-x-3 hover:text-blue-400 transition-colors">
                 <Mail className="w-5 h-5" />
                 <span>{contactInfo.email}</span>
@@ -96,7 +103,7 @@ export default function Footer() {
           >
             <img 
               src="/logo3.jpg" 
-              alt="Logo" 
+              alt="logo3" 
               className="w-full max-w-[300px] h-auto"
             />
           </motion.div>
@@ -106,7 +113,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {currentYear} Placas del Sur K.C.I.B. {t('footer.rights')}
+              © {currentYear} M2c placas del sur s.l. {t('footer.rights')}
             </p>
             <a
               href="https://www.benjabrou-hicham.com"
