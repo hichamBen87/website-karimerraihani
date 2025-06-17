@@ -95,7 +95,7 @@ export default function Footer() {
             className="flex justify-center items-center"
           >
             <img 
-              src="/logo011.png" 
+              src="/logo-new.jpg" 
               alt="Logo" 
               className="w-full max-w-[300px] h-auto"
             />

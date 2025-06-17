@@ -89,7 +89,7 @@ export default function Home() {
                 className="w-full max-w-lg lg:max-w-xl flex-shrink-0"
               >
                 <img
-                  src="/logo011.png"
+                  src="/logo-new.jpg"
                   alt="Placas del Sur K.C.I.B"
                   className="w-full h-auto object-contain"
                 />

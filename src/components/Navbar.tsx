@@ -82,9 +82,9 @@ export default function Navbar() {
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center space-x-3">
               <img 
-                src="/logo011.png" 
+                src="/logo-new.jpg" 
                 alt="Logo" 
-                className="h-10 w-auto"
+                className="h-12 w-auto"
               />
               <span className="text-xl font-bold text-blue-600" dir={i18n.language === 'ar' ? 'rtl' : 'ltr'}>
                 Placas del Sur K.C.I.B
