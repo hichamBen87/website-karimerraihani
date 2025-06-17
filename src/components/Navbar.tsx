@@ -87,7 +87,7 @@ export default function Navbar() {
                 className="h-12 w-auto"
               />
               <span className="text-xl font-bold text-blue-600" dir={i18n.language === 'ar' ? 'rtl' : 'ltr'}>
-                Placas del Sur K.C.I.B
+                M2c placas del sur s.l
               </span>
             </Link>
           </div>
