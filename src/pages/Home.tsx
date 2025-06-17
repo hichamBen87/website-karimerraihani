@@ -90,7 +90,7 @@ export default function Home() {
               >
                 <img
                   src="/logo3.jpg"
-                  alt="Placas del Sur K.C.I.B"
+                  alt="M2c placas del sur s.l"
                   className="w-full h-auto object-contain"
                 />
               </motion.div>
